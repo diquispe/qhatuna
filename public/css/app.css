@@ -1,0 +1,75 @@
+h1 {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.5rem;
+}
+h3 {
+    font-size: 1.4rem;
+}
+h4 {
+    font-size: 1.3rem;
+}
+h5 {
+    font-size: 1.2rem;
+}
+h6 {
+    font-size: 1.1rem;
+}
+
+
+.formulario {
+    width: 400px;
+    margin: auto;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    background-color: #fbfbfb;
+    padding: 20px;
+    box-shadow: 0px 0px 20px #c3c3c34d;
+}
+
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.adminicons i.fa {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.adminicons {
+    text-align: center;
+}
+.fa.fa-pencil-square-o {
+    color: green;
+}
+.fa.fa-trash {
+    color: red;
+}
+.fa.fa-clock-o {
+    color: blue;
+}
+.fa.fa-times-circle {
+    color: #b70000;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid #dee2e6;
+    font-size: 0.8rem;
+}
+
+.sombra {
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    background-color: #fbfbfb;
+    box-shadow: 0px 0px 20px #c3c3c34d;
+    -webkit-transition: all 100ms; /* Safari */
+}
+.sombra:hover {
+    border: 1px solid #a5a5a5;
+    border-radius: 5px;
+    background-color: #f6f6f6;
+    box-shadow: 0px 0px 20px rgba(119, 119, 119, 0.3);
+}
